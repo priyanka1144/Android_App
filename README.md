@@ -1,18 +1,43 @@
-# myapp
+# 🌦️ Weather App - Flutter
 
-A new Flutter project.
+A beautifully designed, beginner-friendly Weather App built with Flutter. It allows users to fetch real-time weather information for any city in the world using the OpenWeatherMap API.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Overview
 
-A few resources to get you started if this is your first Flutter project:
+This Weather App was developed to learn and demonstrate how to:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Use Flutter for cross-platform mobile development
+- Work with REST APIs
+- Handle JSON data
+- Manage state using `StatefulWidget`
+- Apply custom widgets and animations using Lottie
+- Organize a scalable Flutter app structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Android_App
-# Android_App
+---
+
+## 🎯 Key Features
+
+✅ Search weather by city name  
+✅ Real-time temperature, humidity, and wind speed  
+✅ Display sunrise and sunset time (UNIX timestamp to readable format)  
+✅ Lottie animations for sunny, rainy, and cloudy weather  
+✅ Error handling for invalid city names  
+✅ Loading indicator for API fetching  
+✅ Clean and responsive UI  
+✅ Flutter 3+ and Dart Null Safety compatible  
+
+---
+
+## 📷 Screenshots
+
+> _You can add these later in the `assets/screenshots/` folder and link them here._
+
+- ![Search Weather](assets/screenshots/search.png)
+- ![Weather Info](assets/screenshots/weather_info.png)
+
+---
+
+## 🧱 Folder Structure
+
